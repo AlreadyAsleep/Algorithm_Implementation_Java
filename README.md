@@ -9,4 +9,4 @@ It has a time complexity of O(logN) and a space complexity of O(N).
 <h3>Knapsack</h3>
 This class implements a solution to the Knapsack problem with two dimensions.
 <a href=https://xlinux.nist.gov/dads/HTML/knapsackProblem.html>More about it can be read here.</a href>
-My implementation uses an algorithm with a time complexity of O(2^n) and a space complexity of O(Nk) where k is the max "wieght" of the Knapsack.
+My implementation uses an algorithm with a time complexity of O(2<sup>n</sup>) and a space complexity of O(Nk) where k is the max "wieght" of the Knapsack.
