@@ -75,7 +75,7 @@ public class Knapsack
 	The dynamic programming algorithm is more efficient for this problem than 
 	recursion/divide&conquer because it does not exhaust every solution
 	as the brute-force solution would. It prunes data similar to the way the
-	Traveling Salesman algorithm does in Lab 4 and thus reduces runtime and 
+	Traveling Salesman algorithm does using DFS and thus reduces runtime and 
 	unneccessary caching.
 
 
