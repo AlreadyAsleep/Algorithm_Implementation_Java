@@ -10,3 +10,7 @@ It has a time complexity of O(logN) and a space complexity of O(N).
 This class implements a solution to the Knapsack problem with two dimensions.
 <a href=https://xlinux.nist.gov/dads/HTML/knapsackProblem.html>More about it can be read here.</a href>
 My implementation uses an algorithm with a time complexity of O(2<sup>N</sup>) and a space complexity of O(Nk) where k is the max "wieght" of the Knapsack.
+<h3>QuickSort</h3>
+<a href=https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm>
+This class implements a quicksort algorithm I found here.
+</a href>
